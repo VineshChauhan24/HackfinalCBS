@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "139302015799",
+    "firebase_url": "https://your-local-weather-b83b9.firebaseio.com",
+    "project_id": "your-local-weather-b83b9",
+    "storage_bucket": "your-local-weather-b83b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139302015799:android:ab57ba086d1211cc",
+        "android_client_info": {
+          "package_name": "org.thosp.yourlocalweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139302015799-v58450ltorihr5tcadhujdecu1mq75b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.thosp.yourlocalweather",
+            "certificate_hash": "34969c612dd64615cff164d8945ed45edc3094fa"
+          }
+        },
+        {
+          "client_id": "139302015799-gj7s1ovbeu4cfqksm39h54qa7f6chq3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfL45s5UBrWArQUuPQeMfc0Md9qMQm40s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139302015799-gj7s1ovbeu4cfqksm39h54qa7f6chq3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
